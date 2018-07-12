@@ -1,0 +1,7 @@
+*.swp
+*.db
+*.zip
+apcad/session
+apcad/ap
+brg/book
+brg/db
