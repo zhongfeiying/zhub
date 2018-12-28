@@ -1,0 +1,1 @@
+call "%~dp0MessageServer.exe" 127.0.0.1 37280

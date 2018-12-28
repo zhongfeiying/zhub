@@ -1,0 +1,7 @@
+auth = {}
+auth["1IOPqWkif8bvpwbb_7sa5S"] = {}
+auth["1IOPqWkif8bvpwbb_7sa5S"]["buydate"] = 1473657800
+auth["1IOPqWkif8bvpwbb_7sa5S"]["months"] = 2
+auth["1IOPqWkif8bvpwbb_7sa5S"]["buyer"] = "gxy"
+auth["gxy"] = {}
+auth["gxy"]["expire"] = 1478841800
